@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4; /* Page background color */
+    color: #333; /* Default text color */
+}
+
+
+h1 {
+    text-align: center;
+    color: #4CAF50; /* Heading text color */
+}
+
+
+.bold-text {
+    font-weight: bold;
+}
+
+
+.italic-text {
+    font-style: italic;
+}
+
+
+.underline-text {
+    text-decoration: underline;
+}
+
+
+.custom-text-color {
+    color: #ff6347; 
+}
+
+
+.highlight-background {
+    background-color: #ffffe0; 
+    padding: 10px;
+}
+
+
+.centered-text {
+    text-align: center;
+}
+
+
+.preformatted-text {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    font-family: monospace;
+    white-space: pre-wrap; 
+}
